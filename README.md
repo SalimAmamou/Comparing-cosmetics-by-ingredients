@@ -6,13 +6,13 @@ process ingredient lists for 1472 cosmetics on Sephora via word embedding,
 then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh.
 #
 steps:
-. Tokenizing the ingredients
-. Initializing a document-term matrix (DTM)
-. Creating a counter function
-. The Cosmetic-Ingredient matrix!
-. Dimension reduction with t-SNE
-. Let's map the items with Bokeh
-. Adding a hover tool
-. Mapping the cosmetic items
-. Comparing two products
+1. Tokenizing the ingredients
+2. Initializing a document-term matrix (DTM)
+3. Creating a counter function
+4. The Cosmetic-Ingredient matrix!
+5. Dimension reduction with t-SNE
+6. Let's map the items with Bokeh
+7. Adding a hover tool
+8. Mapping the cosmetic items
+9. Comparing two products
 #
